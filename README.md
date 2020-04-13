@@ -17,10 +17,13 @@ The solar power supply is represented as dc power in left most part of the cicui
 There are two leds green and red.
 The RED led indicates the battery getting charged.
 The GREEN led indicates that solar power is being used to charge the battery.
+That means  RED led ON ,GREEN LED OFF indicates it being charged using the ac power supply. 
 
-- When Solar supply is sufficient that means the dc power is set above 11V.
+- When Solar supply is sufficient that means the dc power is set above 11V.(GREEN,RED LED ON)
+
 ![](https://github.com/Sankul2699/HYBRID-CHARGER/blob/master/images/sim%20green.PNG)
 
 
-- When solar supply not sufficient that means dc power is set less than 10V.
+- When solar supply not sufficient that means dc power is set less than 10V.(RED LED ON,GREEN LED OFF)
+
 ![](https://github.com/Sankul2699/HYBRID-CHARGER/blob/master/images/sim%20green%20red.PNG)
