@@ -5,10 +5,10 @@ as well as AC mains supply and ensure the continuous supply of power.
 
 Solar panels generate the most electricity on clear days with abundant sunshine. Commonly, the solar panel gets four to five hours of bright sunlight in a day. If the weather is cloudy, it affects the battery charging process and the battery does not get a full charge.
 ## Repository Contents
-- **simulation** - Contains simulation (solar hybrid charger) in multisim which is available to download
-- **images** - Images of the circuit and simulation 
-- **presentation** - (Power point presentation) Get to know more about the project
-- **schematics** - Contains  circuit diagrams implemented
+- **Simulation** - Contains simulation (solar hybrid charger) in multisim which is available to download
+- **Images** - Images of the circuit and simulation 
+- **Presentation** - (Power point presentation) Get to know more about the project
+- **Schematics** - Contains  circuit diagrams implemented
 
 ## Using the simulation
 
